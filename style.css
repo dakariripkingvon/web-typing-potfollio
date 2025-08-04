@@ -1,0 +1,43 @@
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items:  center;
+gap: 20px;
+background-color: rgb(229, 255, 0);
+min-height: 500px;
+border: 2pc dashed #ffffff;
+padding: 20px;
+}
+html{
+    background: #25baff;
+}
+body{
+    font-size: xx-large;
+}
+.box{
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-family: cursive;
+    text-shadow: 0cqmax;
+}
+.box1{
+    color: rgb(0, 0, 0);
+}
+.box2{
+    color: rgb(255, 0, 0);
+}
+.box3{
+    color: rgb(147, 0, 196);
+}
+
+
+
+
+
+
